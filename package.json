@@ -1,0 +1,37 @@
+{
+  "name": "chakra-ui-react-hook-form",
+  "version": "1.0.0",
+  "description": "This example shows how to build a simple form with Chakra UI's form components\nand the React Hook Form form library.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@chakra-ui/react": "1.0.2",
+    "@emotion/react": "11.1.2",
+    "@emotion/styled": "11.0.0",
+    "@hookform/resolvers": "2.8.8",
+    "emotion-theming": "10.0.19",
+    "framer-motion": "2.9.5",
+    "next": "12.1.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-hook-form": "6.12.2",
+    "react-icons": "4.3.1",
+    "react-scripts": "3.0.1",
+    "yup": "0.32.11"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
